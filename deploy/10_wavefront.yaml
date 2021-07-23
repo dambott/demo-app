@@ -31,7 +31,7 @@ spec:
         - name: WAVEFRONT_URL
           value: https://longboard.wavefront.com/api/
         - name: WAVEFRONT_TOKEN
-          value: d6bb5460-02ff-438e-bc9c-9b321ad84093
+          value: <token val>
           #valueFrom:
           #        secretKeyRef:
           #          name: wf-token
