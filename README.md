@@ -1,6 +1,6 @@
 # Tanzu Observability demo-app
 This is a polyglot demo app for showcasing Tanzu Observability.
-
+ 
 #### TODO
 1. Add UI repo link 
 
